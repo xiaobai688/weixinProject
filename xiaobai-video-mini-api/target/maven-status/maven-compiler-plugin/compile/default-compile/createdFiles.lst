@@ -1,0 +1,15 @@
+com\xiaobai\Application.class
+com\xiaobai\controller\interceptor\MiniInterceptor.class
+com\xiaobai\controller\VideoController.class
+com\xiaobai\WarStartApplication.class
+com\xiaobai\controller\UserController.class
+com\xiaobai\controller\BasicController.class
+com\xiaobai\config\ResourceConfig.class
+com\xiaobai\service\crud\UserCRUDService.class
+com\xiaobai\ZKCuratorClient$1.class
+com\xiaobai\WebMvcConfig.class
+com\xiaobai\service\crud\UserCRUDServiceImpl.class
+com\xiaobai\ZKCuratorClient.class
+com\xiaobai\Swagger2.class
+com\xiaobai\controller\RegistLoginController.class
+com\xiaobai\controller\BgmController.class

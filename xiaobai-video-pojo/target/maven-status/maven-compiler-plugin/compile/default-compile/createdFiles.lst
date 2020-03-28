@@ -1,0 +1,13 @@
+com\xiaobai\pojo\UsersReport.class
+com\xiaobai\pojo\Videos.class
+com\xiaobai\pojo\vo\UsersVO.class
+com\xiaobai\pojo\SearchRecords.class
+com\xiaobai\pojo\Users.class
+com\xiaobai\pojo\Comments.class
+com\xiaobai\pojo\vo\CommentsVO.class
+com\xiaobai\pojo\vo\PublisherVideo.class
+com\xiaobai\pojo\vo\VideosVO.class
+com\xiaobai\pojo\UsersLikeVideos.class
+com\xiaobai\pojo\UsersFans.class
+com\xiaobai\pojo\UsersLikeComment.class
+com\xiaobai\pojo\Bgm.class

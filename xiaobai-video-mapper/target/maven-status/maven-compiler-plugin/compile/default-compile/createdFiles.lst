@@ -1,0 +1,11 @@
+com\xiaobai\mapper\VideosMapperCustom.class
+com\xiaobai\mapper\SearchRecordsMapper.class
+com\xiaobai\mapper\UsersLikeVideosMapper.class
+com\xiaobai\mapper\UsersReportMapper.class
+com\xiaobai\mapper\VideosMapper.class
+com\xiaobai\mapper\UsersMapper.class
+com\xiaobai\mapper\UsersFansMapper.class
+com\xiaobai\mapper\CommentsMapperCustom.class
+com\xiaobai\mapper\UsersLikeCommentMapper.class
+com\xiaobai\mapper\BgmMapper.class
+com\xiaobai\mapper\CommentsMapper.class

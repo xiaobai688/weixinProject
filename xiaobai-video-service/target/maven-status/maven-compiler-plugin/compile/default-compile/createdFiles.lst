@@ -1,0 +1,6 @@
+com\xiaobai\service\UserService.class
+com\xiaobai\service\VideoService.class
+com\xiaobai\service\BgmService.class
+com\xiaobai\service\impl\BgmServiceImpl.class
+com\xiaobai\service\impl\UserServiceImpl.class
+com\xiaobai\service\impl\VideoServiceImpl.class
